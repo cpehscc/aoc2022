@@ -4,7 +4,7 @@ class Main {
   
   public static void main(String[] args) {
     try {
-      Day6 test = new Day6();
+      Day7 test = new Day7();
       test.part1();
     }
     catch (FileNotFoundException ex) {
